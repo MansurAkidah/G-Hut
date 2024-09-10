@@ -726,7 +726,7 @@
     position: relative !important;
   }
   .cid-sHKVkfAIKi .navbar-dropdown {
-    position: absolute !important;
+    position: fixed !important;
   }
   .cid-sHKVkfAIKi .dropdown-item:before {
     font-family: Moririse2 !important;
