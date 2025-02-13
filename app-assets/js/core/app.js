@@ -962,6 +962,7 @@ window.colors = {
 
   // Navbar Dark / Light Layout Toggle Switch
   $('.nav-link-style').on('click', function () {
+    debugger;
     var currentLayout = getCurrentLayout(),
       switchToLayout = '',
       prevLayout = localStorage.getItem(dataLayout + '-prev-skin', currentLayout);
